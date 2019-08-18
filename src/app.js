@@ -1,0 +1,1 @@
+var ozonApp = angular.module('ozonApp', [ 'pagination' ]);
